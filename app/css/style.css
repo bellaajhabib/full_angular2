@@ -1,0 +1,9 @@
+.ng-touched.ng-invalid{
+    border: 1px solid red;
+
+}
+.row.extra-bottom-padding{
+    margin-top: 20px;
+    border: 1px solid rebeccapurple;
+    padding:20px;
+}
